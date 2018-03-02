@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="Team_A">Team A</string>
+    <string name="Zero">0</string>
+    <string name="Try">Try</string>
+    <string name="conversion">conversion</string>
+    <string name="penalty">penalty</string>
+    <string name="team_b">Team B</string>
+
+    <string name="reset">RESET</string>
+    <string name="_try">Try</string>
+    <string name="penalty_try">Penalty Try</string>
+</resources>
